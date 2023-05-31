@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206959513392",
+    "project_id": "redevi-2e5be",
+    "storage_bucket": "redevi-2e5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206959513392:android:bb10c4f8053ef07cffc2f5",
+        "android_client_info": {
+          "package_name": "com.company.RedeviV1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsqpMtT9MSN_Kd8_AXdZwWBAM0eB5CJf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
